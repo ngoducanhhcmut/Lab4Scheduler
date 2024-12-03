@@ -1,0 +1,3 @@
+Task.c:12:6:myFunction1	8	static
+Task.c:16:6:myFunction2	8	static
+Task.c:20:6:myFunction3	8	static
